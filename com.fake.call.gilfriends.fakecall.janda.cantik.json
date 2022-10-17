@@ -1,0 +1,102 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Pocong Puzzle",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.pocong.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 2,
+      "title": "kuntilanak Puzzle",
+      "image": "file:///android_asset/image/kujntilanak.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.kuntilanak.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 3,
+      "title": "Scary Ghost Puzlle",
+      "image": "file:///android_asset/image/ScaryGhost.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.scary_ghost.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 4,
+      "title": "Halleoween Puzzlle",
+      "image": "file:///android_asset/image/halloween.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.halloween.game.jigzaw.puzzle.simulator"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Janda Cantik",
+      "image_url": "file:///android_asset/image/Jandacantikgam1.png",
+      "video_url": "videoojan1",
+      "voice_url": "jandasuara.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Janda Cantik",
+      "image_url": "file:///android_asset/image/Jandacantikgam2.png",
+      "video_url": "videoojan2",
+      "voice_url": "jandasuara.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Janda Cantik",
+      "image_url": "file:///android_asset/image/Jandacantikgam3.png",
+      "video_url": "videoojan3",
+      "voice_url": "jandasuara.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Janda Cantik",
+      "image_url": "file:///android_asset/image/Jandacantikgam4.png",
+      "video_url": "videoojan4",
+      "voice_url": "jandasuara.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Janda Cantik",
+      "image_url": "file:///android_asset/image/Jandacantikgam5.png",
+      "video_url": "videoojan5",
+      "voice_url": "jandasuara.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Janda Cantik",
+      "image_url": "file:///android_asset/image/Jandacantikgam6.png",
+      "video_url": "videoojan6",
+      "voice_url": "jandasuara.mp3"
+    }
+  ]
+}
