@@ -1,0 +1,124 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "shiva",
+      "image": "file:///android_asset/image/shiva.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.ayesha.singh.prank.video.call"
+    },
+    {
+      "id": 2,
+      "title": "Kuntilanak Game",
+      "image": "file:///android_asset/image/kujntilanak.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.kuntilanak.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 3,
+      "title": "Pocong Game",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.pocong.game.jigzaw.puzzle.simulator"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam1.png",
+      "video_url": "ninjahatorivia1",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam2.png",
+      "video_url": "ninjahatorivia2",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam3.png",
+      "video_url": "ninjahatorivia3",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam4.png",
+      "video_url": "ninjahatorivia4",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam5.png",
+      "video_url": "ninjahatorivia5",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam6.png",
+      "video_url": "ninjahatorivia1",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam7.png",
+      "video_url": "ninjahatorivia2",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam8.png",
+      "video_url": "ninjahatorivia3",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam9.png",
+      "video_url": "ninjahatorivia4",
+      "voice_url": "suaraninjaha.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Ninja Hatori",
+      "image_url": "file:///android_asset/image/ninjahatorigam10.png",
+      "video_url": "ninjahatorivia5",
+      "voice_url": "suaraninjaha.mp3"
+    }
+  ]
+}
