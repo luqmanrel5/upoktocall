@@ -1,0 +1,110 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Ninja hatori",
+      "image": "file:///android_asset/image/ninjahatori.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakecall.ninja_hattori_video_call.ninjahattorihdwallpaper.ninjahattori"
+    },
+    {
+      "id": 2,
+      "title": "Kuntilanak Game",
+      "image": "file:///android_asset/image/kujntilanak.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.kuntilanak.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 3,
+      "title": "Pocong Game",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.pocong.game.jigzaw.puzzle.simulator"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa1.png",
+      "video_url": "shivaasmaorougal1",
+      "voice_url": "suarasihivaokeoke.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa2.png",
+      "video_url": "shivaasmaorougal2",
+      "voice_url": "suarasihivaokeoke.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa3.png",
+      "video_url": "shivaasmaorougal3",
+      "voice_url": "suarasihivaokeoke.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa4.png",
+      "video_url": "shivaasmaorougal4",
+      "voice_url": "suarasihivaokeoke.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa5.png",
+      "video_url": "shivaasmaorougal1",
+      "voice_url": "suarasihivaokeoke.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa6.png",
+      "video_url": "shivaasmaorougal2",
+      "voice_url": "suarasihivaokeoke.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa7.png",
+      "video_url": "shivaasmaorougal3",
+      "voice_url": "suarasihivaokeoke.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Shiva",
+      "image_url": "file:///android_asset/image/shivacallyukaa8.png",
+      "video_url": "shivaasmaorougal4",
+      "voice_url": "suarasihivaokeoke.mp3"
+    }
+  ]
+}
