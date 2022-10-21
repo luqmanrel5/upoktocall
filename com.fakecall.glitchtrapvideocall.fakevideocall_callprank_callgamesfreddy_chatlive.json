@@ -1,0 +1,122 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Ninja hatori",
+      "image": "file:///android_asset/image/ninjahatori.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakecall.ninja_hattori_video_call.ninjahattorihdwallpaper.ninjahattori"
+    },
+    {
+      "id": 2,
+      "title": "Kuntilanak Game",
+      "image": "file:///android_asset/image/kujntilanak.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.kuntilanak.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 3,
+      "title": "Pocong Game",
+      "image": "file:///android_asset/image/pocong.png",
+      "link": "https://play.google.com/store/apps/details?id=com.luklukdeveloper.pocong.game.jigzaw.puzzle.simulator"
+    },
+    {
+      "id": 4,
+      "title": "Shiva Call",
+      "image": "file:///android_asset/image/shivaa.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakecall.supershivaclimbers.supershivarunner.shiva.racing.hero.shiva.shiva_call_me"
+    },
+    {
+      "id": 4,
+      "title": "Roman Reigsn",
+      "image": "file:///android_asset/image/roman.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake.call.wwe.roman.reigsn"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim1.png",
+      "video_url": "glitchtravid1",
+      "voice_url": "glitchtrsua1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim2.png",
+      "video_url": "glitchtravid2",
+      "voice_url": "glitchtrsua1.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim3.png",
+      "video_url": "glitchtravid3",
+      "voice_url": "glitchtrsua1.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim4.png",
+      "video_url": "glitchtravid4",
+      "voice_url": "glitchtrsua1.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim5.png",
+      "video_url": "glitchtravid1",
+      "voice_url": "glitchtrsua1.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim6.png",
+      "video_url": "glitchtravid2",
+      "voice_url": "glitchtrsua1.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim7.png",
+      "video_url": "glitchtravid3",
+      "voice_url": "glitchtrsua1.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Glitchtrap",
+      "image_url": "file:///android_asset/image/glitchtraponvillim8.png",
+      "video_url": "glitchtravid4",
+      "voice_url": "glitchtrsua1.mp3"
+    }
+  ]
+}
